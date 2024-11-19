@@ -1,5 +1,5 @@
 <view class='margin-xl bg-white padding-xl radius shadow-lg'>
-	<view class='text-center margin-bottom text-lg  text-grey'>关于Qt那些事儿</view>
+	<view class='text-center margin-bottom text-lg  text-grey'>关于</view>
 	<view class='text-content'>
 		<view>欢迎使用我的第一个小程序</view>
 		<view class='margin-top-sm'>本人WPS For Linux的开发，平时自己写写博客，突然迸发个想法，想把博客内容无缝迁移到小程序上。所以就有了本项目</view>

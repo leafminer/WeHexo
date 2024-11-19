@@ -1,61 +1,45 @@
 {
-	"description": "项目配置文件",
-	"packOptions": {
-		"ignore": []
-	},
-	"setting": {
-		"urlCheck": true,
-		"es6": true,
-		"enhance": false,
-		"postcss": true,
-		"preloadBackgroundData": false,
-		"minified": true,
-		"newFeature": true,
-		"coverView": true,
-		"nodeModules": false,
-		"autoAudits": false,
-		"showShadowRootInWxmlPanel": true,
-		"scopeDataCheck": false,
-		"uglifyFileName": false,
-		"checkInvalidKey": true,
-		"checkSiteMap": true,
-		"uploadWithSourceMap": true,
-		"compileHotReLoad": false,
-		"babelSetting": {
-			"ignore": [],
-			"disablePlugins": [],
-			"outputPath": ""
-		},
-		"useIsolateContext": true,
-		"useCompilerModule": false,
-		"userConfirmedUseCompilerModuleSwitch": false
-	},
-	"compileType": "miniprogram",
-	"libVersion": "2.10.4",
-	"appid": "wxcc0fb31077ebf031",
-	"projectname": "WeHexo",
-	"debugOptions": {
-		"hidedInDevtools": []
-	},
-	"isGameTourist": false,
-	"simulatorType": "wechat",
-	"simulatorPluginLibVersion": {},
-	"condition": {
-		"search": {
-			"current": -1,
-			"list": []
-		},
-		"conversation": {
-			"current": -1,
-			"list": []
-		},
-		"game": {
-			"currentL": -1,
-			"list": []
-		},
-		"miniprogram": {
-			"current": -1,
-			"list": []
-		}
-	}
+  "description": "项目配置文件",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "enhance": false,
+    "postcss": true,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "nodeModules": false,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "uglifyFileName": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "useIsolateContext": true,
+    "useCompilerModule": false,
+    "userConfirmedUseCompilerModuleSwitch": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "3.6.5",
+  "appid": "wxb8260fc739ab382c",
+  "projectname": "奉有余",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
 }

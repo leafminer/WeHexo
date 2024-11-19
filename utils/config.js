@@ -1,5 +1,5 @@
 
-var BaseUrl = "https://www.cryfeifei.cn";
+var BaseUrl = "https:/blog.leafminer.cn";
 
 //用于请求的
 var URL =  BaseUrl + "/";

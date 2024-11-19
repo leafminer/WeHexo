@@ -12,7 +12,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "Qt那些事儿",
+    "navigationBarTitleText": "奉有余",
     "navigationBarTextStyle": "black"
   },
   "style": "v2",
@@ -25,13 +25,13 @@
     "list": [
       {
         "pagePath": "pages/index/index",
-        "text": "列表",
+        "text": "首页",
         "iconPath": "images/index.png",
         "selectedIconPath": "images/index_select.png"
       },
       {
         "pagePath": "pages/about/home/home",
-        "text": "关于我",
+        "text": "关于",
         "iconPath": "images/about.png",
         "selectedIconPath": "images/about_select.png"
       }
